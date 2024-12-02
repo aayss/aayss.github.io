@@ -1,0 +1,4 @@
+[ { "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "net.medrics.lighthouse.va
+","package_name": "net.medrics.lighthouse
+", "sha256_cert_fingerprints": ["1B:30:63:B1:30:0C:0C:09:F8:EA:42:B0:37:36:C8:CC:D3:05:AC:B1:82:8D:A3:9F:20:9E:21:C8:F1:D5:2F:73
+apple-app-site-association"] } } ]
